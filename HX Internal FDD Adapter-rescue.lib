@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 171825-4-171825-4
+#
+DEF 171825-4-171825-4 J 0 40 Y Y 1 L N
+F0 "J" -220 300 50 H V L BNN
+F1 "171825-4-171825-4" -200 -300 50 H V L BNN
+F2 "TE_171825-4" 0 0 50 H I L BNN
+F3 "A106197-ND" 0 0 50 H I L BNN
+F4 "Te Connectivity 171825-4 / Tyco 171825-4 / Amp 171825-4 / Crimp Termination, Post Header Assy _Vertical_ Amp Ei Serie..." 0 0 50 H I L BNN
+F5 "171825-4" 0 0 50 H I L BNN
+F6 "171825-4" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "TE Connectivity" 0 0 50 H I L BNN
+F9 "https://www.te.com/usa-en/product-171825-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" 0 0 50 H I L BNN
+F10 "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/171825-4/A106197-ND/2135511?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 -200 -200 300 N
+P 2 0 0 10 -200 300 200 300 N
+P 2 0 0 10 200 -200 -200 -200 N
+P 2 0 0 10 200 300 200 -200 N
+X 1 1 -400 200 200 R 40 40 0 0 P
+X 2 2 -400 100 200 R 40 40 0 0 P
+X 3 3 -400 0 200 R 40 40 0 0 P
+X 4 4 -400 -100 200 R 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
