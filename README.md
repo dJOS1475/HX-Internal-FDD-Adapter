@@ -1,5 +1,5 @@
 # HX-Internal-FDD-Adapter
-Tandy 1000 HX Internal 3.5" FDD Adapter
+Tandy 1000 HX, RL, RLX & RSX Internal 3.5" FDD Adapter
 
 This Tandy 1000 Internal Floppy Drive Adapter allows you to add an extra Drive or replace your dead Floppy Drive in the Tandy 1000 HX which sends power over the Floppy cable and uses a non-standard pin-out.
 
